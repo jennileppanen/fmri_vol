@@ -3,7 +3,7 @@
 """
 Created on Sat May  9 11:21:25 2020
 
-Find the H associated with a given volatility path using CNN method from 
+Find the H associated with a given volatility path using CNN method from https://github.com/henrymstone/rough-calibration-using-CNNS
 
 @author: 
 """
